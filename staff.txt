@@ -1,0 +1,19 @@
+201201,Mike Long,1,MIKEL,Wed Oct 18 10:07:51 NZDT 2017
+201202,Barbara Welcome,0,BARB,Not Voted
+201203,Amardeep Singh,0,AMAR,Not Voted
+201204,Manoo Smith,1,MANOO,Wed Oct 17 10:05:23 NZDT 2017
+201205,Daee Jin,0,DAEE,Not Voted
+201206,Zhuo Wang,0,ZHUO,Not Voted
+201207,Ann Sanderson,0,ANN,Not Voted
+201208,Kimberly Gibbs,0,KIM,Not Voted
+201209,Ayako Nakayama,0,AYA,Not Voted
+201210,Nikhil Singh,1,NIK,Wed Oct 13 12:18:29 NZDT 2017
+201211,Steve Lane,0,STE,Not Voted
+201212,Java King,0,JAVA,Not Voted
+201213,Susan Sun,0,SUSAN,Not Voted
+201214,Cyrus Jin,0,CYRUS,Not Voted
+201215,Wing Wang,0,WING,Not Voted
+201216,Lin Wingard,0,LIN,Not Voted
+201217,Sam Sean,0,SAM,Not Voted
+201218,Baba Meng,0,BABA,Not Voted
+201219,Mike King,0,MIKE,Not Voted
